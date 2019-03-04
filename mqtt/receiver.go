@@ -4,7 +4,7 @@ import (
 	"time"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
-	recv "github.com/vcamvr/receiver"
+	recv "github.com/zg1211/receiver"
 )
 
 var (
